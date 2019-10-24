@@ -9,7 +9,7 @@ Download releases:
 
 * https://github.com/mirfansulaiman/CustomHeader/releases/
 
-This Burp Suite extension allows you to customize header with put a new header into HTTP REQUEST BurpSuite (Scanner, Instruder, Repeater, Proxy History) and also you can choose whatever HTTP VERB what do you want to customize.
+This Burp Suite extension allows you to customize header with put a new header into HTTP REQUEST BurpSuite (Scanner, Intruder, Repeater, Proxy History) and also you can choose whatever HTTP VERB what do you want to customize.
 
 ![CustomHeader](screenshots/CustomHeader-Interface.png) 
 
