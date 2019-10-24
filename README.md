@@ -17,6 +17,7 @@ This Burp Suite extension allows you to customize header with put a new header i
 ## Usage
 
 * Easy to use ! :) 
+* Don't forget to click save button ! 
 
 ## Changelog
 **24 October 2019 - v1.0**
