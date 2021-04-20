@@ -13,6 +13,7 @@ This Burp Suite extension allows you to customize header with put a new header i
 
 ![CustomHeader](screenshots/CustomHeader-Interface.png) 
 
+Support Burpsuite Proffesional/Communitiy version 2019 until 2021.3.3
 
 ## Usage
 
